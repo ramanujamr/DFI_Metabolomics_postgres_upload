@@ -1,0 +1,110 @@
+compound,panel,type,color
+lithocholic acid,Bile acids,normalized,darkolivegreen2
+alloisolithocholic acid,Bile acids,normalized,darkolivegreen2
+allolithocholic acid,Bile acids,normalized,darkolivegreen2
+isolithocholic acid,Bile acids,normalized,darkolivegreen2
+7-12-dioxolithocholic acid,Bile acids,normalized,darkolivegreen2
+isodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+ursodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+3-deoxycholic acid,Bile acids,normalized,darkolivegreen2
+7-oxodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+3-oxodeoxycholic acid-or-3-oxochenodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+3-oxolithocholic acid,Bile acids,normalized,darkolivegreen2
+3-oxocholic acid,Bile acids,normalized,darkolivegreen2
+ursocholic acid,Bile acids,normalized,darkolivegreen2
+glycoursodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+beta-muricholic acid,Bile acids,normalized,darkolivegreen2
+alpha-muricholic acid,Bile acids,normalized,darkolivegreen2
+tauro-alpha-muricholic acid-or-tauro-beta-muricholic acid,Bile acids,normalized,darkolivegreen2
+taurohyodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+tauroursodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+glycohyodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+allocholic acid,Bile acids,normalized,darkolivegreen2
+glycolithocholic acid,Bile acids,normalized,darkolivegreen2
+12-oxolithocholic acid,Bile acids,normalized,darkolivegreen2
+glycodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+7-oxo-or-6-oxo-lithocholic acid,Bile acids,normalized,darkolivegreen2
+deoxycholic acid,Bile acids,normalized,darkolivegreen2
+hyodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+glycocholic acid,Bile acids,normalized,darkolivegreen2
+gamma-muricholic acid,Bile acids,normalized,darkolivegreen2
+taurolithocholic acid,Bile acids,normalized,darkolivegreen2
+taurodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+taurocholic acid,Bile acids,normalized,darkolivegreen2
+cholic acid,Bile acids,normalized,darkolivegreen2
+omega-muricholic acid,Bile acids,normalized,darkolivegreen2
+glycodehydrocholic acid,Bile acids,normalized,darkolivegreen2
+glycochenodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+taurochenodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+12-oxochenodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+chenodeoxycholic acid,Bile acids,normalized,darkolivegreen2
+glycocholic acid,Bile acids,quant,darkolivegreen4
+cholic acid,Bile acids,quant,darkolivegreen4
+allocholic acid,Bile acids,quant,darkolivegreen4
+alloisolithocholic acid,Bile acids,quant,darkolivegreen4
+ursocholic acid,Bile acids,quant,darkolivegreen4
+taurochenodeoxycholic acid,Bile acids,quant,darkolivegreen4
+lithocholic acid,Bile acids,quant,darkolivegreen4
+3-oxolithocholic acid,Bile acids,quant,darkolivegreen4
+glycochenodeoxycholic acid,Bile acids,quant,darkolivegreen4
+chenodeoxycholic acid,Bile acids,quant,darkolivegreen4
+beta-muricholic acid,Bile acids,quant,darkolivegreen4
+alpha-muricholic acid,Bile acids,quant,darkolivegreen4
+omega-muricholic acid,Bile acids,quant,darkolivegreen4
+deoxycholic acid,Bile acids,quant,darkolivegreen4
+isodeoxycholic acid,Bile acids,quant,darkolivegreen4
+taurocholic acid,Bile acids,quant,darkolivegreen4
+3-aminoisobutyrate,SCFA,normalized,goldenrod1
+3-aminoisobutyrate2,SCFA,normalized,goldenrod1
+4-methylvalerate,SCFA,normalized,goldenrod1
+5-aminovalerate,SCFA,normalized,goldenrod1
+catechol,SCFA,normalized,goldenrod1
+crotonate,SCFA,normalized,goldenrod1
+desaminotyrosine,SCFA,normalized,goldenrod1
+dopamine,SCFA,normalized,goldenrod1
+histamine,SCFA,normalized,goldenrod1
+hydrocinnamate,SCFA,normalized,goldenrod1
+indole-3-acetate,SCFA,normalized,goldenrod1
+indole-3-carboxaldehyde,SCFA,normalized,goldenrod1
+indole-3-propionate,SCFA,normalized,goldenrod1
+itaconate,SCFA,normalized,goldenrod1
+p-cresol,SCFA,normalized,goldenrod1
+phenol,SCFA,normalized,goldenrod1
+phenylacetate,SCFA,normalized,goldenrod1
+serine,SCFA,normalized,goldenrod1
+synephrine,SCFA,normalized,goldenrod1
+toluate,SCFA,normalized,goldenrod1
+trans-indole-3-acrylate,SCFA,normalized,goldenrod1
+tryptamine,SCFA,normalized,goldenrod1
+tyrosine,SCFA,normalized,goldenrod1
+vanillin,SCFA,normalized,goldenrod1
+valerate,SCFA,normalized,goldenrod1
+2-methylbutyrate,SCFA,normalized,goldenrod1
+hexanoate,SCFA,normalized,goldenrod1
+threonine,SCFA,normalized,goldenrod1
+isovaleric acid,SCFA,normalized,goldenrod1
+palmitate,SCFA,normalized,goldenrod1
+tryptophan,SCFA,normalized,goldenrod1
+propionate,SCFA,normalized,goldenrod1
+isobutyrate,SCFA,normalized,goldenrod1
+butyrate,SCFA,normalized,goldenrod1
+benzoate,SCFA,normalized,goldenrod1
+succinate,SCFA,normalized,goldenrod1
+tyramine,SCFA,normalized,goldenrod1
+glutamate,SCFA,normalized,goldenrod1
+aspartate,SCFA,normalized,goldenrod1
+methionine,SCFA,normalized,goldenrod1
+lysine,SCFA,normalized,goldenrod1
+isoleucine,SCFA,normalized,goldenrod1
+cysteine,SCFA,normalized,goldenrod1
+valine,SCFA,normalized,goldenrod1
+leucine,SCFA,normalized,goldenrod1
+proline,SCFA,normalized,goldenrod1
+glycine,SCFA,normalized,goldenrod1
+phenylalanine,SCFA,normalized,goldenrod1
+alanine,SCFA,normalized,goldenrod1
+acetate,SCFA,normalized,goldenrod1
+acetate,SCFA,quant,goldenrod3
+butyrate,SCFA,quant,goldenrod3
+succinate,SCFA,quant,goldenrod3
+propionate,SCFA,quant,goldenrod3
